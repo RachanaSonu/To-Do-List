@@ -7,4 +7,4 @@ You can create a basic to-do list that allows users to add tasks, display them o
 
 # Installation
 + git clone https://github.com/RachanaSonu/To-Do-List.git
-+ To Do List website - https://rachanasonu.github.io/To-Do-List/
++ To Do List demo - https://rachanasonu.github.io/To-Do-List/
